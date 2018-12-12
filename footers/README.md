@@ -1,0 +1,1 @@
+﻿Ez egy igen egyszerű, nem sticky footer.
